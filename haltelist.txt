@@ -1,0 +1,79 @@
+NO.	NAMA HALTE	LOKASI HALTE
+		
+1	Halte Rajawali 2	JL. RAJAWALI DEPAN PERSIL 68 
+2	Halte Stasiun Gubeng	JL. ST.GUBENG DEPAN GUBENG LAMA
+3	Halte Jemur Andayani	JL. JEMUR ANDAYANI SEBERANG KANTOR POS
+4	Halte Margorejo 2	JL. Margorejo Indah (samping maspion square)
+5	Halte SMAN 4		JL. PROP.DR.MUSTOPO DEPAN SMAN 4
+6	Halte UNAIR		JL. PROP.DR.MUSTOPO DEPAN FK.UNAIR
+7	Halte TMP Ngagel 1	JL. NGAGEL JAYA SELATAN DEPAN MAKAM
+8	Halte Jemur Andayani	JL. JEMUR ANDAYANI DEPAN KANTOR POS
+9	Halte SMAN 9		JL. KUSUMA BANGSA DEPAN SMUN 9
+10	Halte Perak		JL. PERAK TIMUR DEPAN SMA BARUNAWATI
+11	Halte Museum BI		JL. RAYA DARMO DEPAN PERPUSTAKAAN BI
+12	Halte RS Darmo		JL. RAYA DARMO DEPAN RS.DARMO
+13	Halte Niaga		JL.RAYA DARMO DEPAN BANK NIAGA
+14	Halte Pandegiling	JL. RAYA DARMO DEPAN APOTEK KIMIA FARMA
+15	Halte Darmo		JL.RAYA DARMO DEPAN BANK NTB
+16	Halte Santa Maria	JL.RAYA DARMO DEPAN SMA ST.MARIA
+17	Halte Mandiri		JL.RAYA DIPONEGORO DEPAN RUMAH No.155 (Bank Mandiri)
+18	Halte Embong Malang 2	JL. EMBONG MALANG DEPAN HOTEL JW. MARRIOT 
+19	Halte Simpang Dukuh	JL. GUBERNUR SURYO DPN HOTEL INNA SIMPANG
+20	Halte Sono Kembang	JL. Panglima Sudirman depan Grapari
+21	Halte Pangsud		JL. Panglima Sudirman depan Lapangan Yamaha
+22	Halte Kaliasin		JL.BASUKI RAHMAT DEPAN RENCH MARKET
+23	Halte Lapangan Hockey	JL.DHARMAWANGSA DEPAN LAPANGAN HOCKEY
+24	Halte Darmo Park 1	JL.MAYJEN SUNGKONO DEPAN RUKO DARMO PARK
+25	Halte Darmo Park 2	JL.MAYJEN SUNGKONO DEPAN VIDA SWALAYAN
+26	Halte Basra		JL.BASUKI RAHMAT DEPAN HOTEL BUMI
+27	Halte SMAN 2		JL. WIJAYA KUSUMA DEPAN SMA 2
+28	Halte Jemursari		JL.JEMURSARI DEPAN RSI JEMURSARI
+29	Halte SMPN 15		JL. HM.NOER DEPAN SMP 15
+30	Halte USFI		JL.HM.NOER DEPAN PT.USFI
+31	Halte SMPN 19		JL. Dr. Ir. Soekarno MERR DEPAN SMP 19
+32	Halte Kopertis		JL. Dr. Ir. Soekarno MERR DEPAN KOPERTIS
+33	Halte SMKN 5		JL. DHARMAHUSADA DEPAN SMK 5
+34	Halte Menur B		JL.MANYAR DEPAN DIPLOMA TEKNIK SIPIL ITS
+35	Halte Kebonrojo		JL. KEBONROJO DEPAN KANTOR POS 
+36	Halte BDH		JL. KENDUNG DEPAN RS.BDH
+37	Halte Kapasari		JL. KUSUMA BANGSA DEPAN SDN KAPASARI
+38	Halte Margomulyo 2	JL. MARGOMULYO DEPAN GUDANG SRI MULYA
+39	Halte Dukuh Menanggal	JL.A.YANI FRONTAGE BARAT DEPAN BANK MANDIRI
+40	Halte RSAL		JL.A.YANI FRONTAGE TIMUR DEPAN RSAL
+41	Halte Ketintang		JL. A.YANI DEPAN ROYAL PLAZA
+42	Halte UIN		JL. A.YANI DEPAN UINSA
+43	Halte KPU		JL.MAYJEN SUNGKONO DEPAN GOLKAR
+44	Halte Mayjend Sungkono	JL. MAYJEN SUNGKONO SEBELAH SPBU
+45	Halte Prada Kali Kendal	JL. HR.MUHAMMAD DEPAN MASJI AT-TAKWA
+46	Halte RSUD Dr. Soetomo	JL.DHARMAWANGSA SEBELAH RS.DR.SOETOMO
+47	Halte Bundaran ITS,	JL.KERTAJAYA INDAH BUNDARAN ITS
+48	Halte UNESA		HALTE LIDAH KULON UNESA
+49	Halte UBHARA		JL. A. YANI HALTE UBHARA
+50	Halte Jemur Ngawinan	JL. A. Yani FR Timur (sebelah Ruko Grand Ahmad Yani)
+51	Halte Gunung Anyar Timur A	JL. Ir. SOEKARNO MERR GUNUNG ANYAR 
+52	Halte Mulyorejo 2	JL. Ir. SOEKARNO MERR KAMPUS UNAIR C
+53	Hlate Embong Malang	JL. EMBONG MALANG SEBELUM JPO
+54	Halte Indrapura		JL.INDRAPURA DEPAN RS VERTIKAL SURABAYA
+55	Halte Jembatan Merah	JL. RAJAWALI DEPAN PT.ARINA MULTIKARYA
+56	Halte Pasar Turi	JL.PASAR TURI DEPAN GEDUNG KENCANA
+57	Halte Pemuda RRI	JL.PEMUDA DEPAN RRI
+58	Halte Siwalankerto	JL.FRONTAGE BARAT DEPAN AHASS MOTOR
+59	Halte William Booth	Jl. DIPONEGORO DEPAN RS.WILLIAM BOOTH
+60	Halte Blauran		Jl. BLAURAN DEPAN BG JUNCTION
+61	Halte Urip Sumoharjo 2	JL.URIP SUMOHARJO SETELAH JPO
+62	Halte Darmo Permai	JL.DARMO PERMAI DEPAN RUKO
+63	Halte Margorejo		Jl. A. Yani FR Timur (depan Gudang Margorejo)
+64	Halte Siwalankerto 2	Jl. Siwalankerto (depan makam)
+65	Halte Taman Pelangi	Jl. A. Yani FR Barat (depan Kantor Balitbangtan)
+66	Halte RS. Bhayangkara	JL. A.YANI DEPAN RS BHAYANGKARA
+67	Halte Marmoyo		JL. MARMOYO SEBELUM JPO
+68	Halte Veteran		JL. VETERAN DEPAN BANK MANDIRI
+69	Halte Pirngadi		JL. BUBUTAN DEPAN GEREJA IMMANUEL
+70	Halte Bundaran UNESA	Jl. BUKIT DARMO BOULEVARD
+71	Halte Alun-alun Contong	Jl. Alun-alun Contong
+72	Halte Kecamatan Pakal A	Jl. Raya Babat Jerawat depan Kantor Kecamatan Pakal
+73	Halte Samsat Manyar	Jl. Manyar Kertoarjo depan Kantor Samsat Manyar
+74	Halte Gunung Anyar Timur B	JL. Ir. SOEKARNO MERR GUNUNG ANYAR 
+75	Halte Pusvetma		Jl. A. Yani Frontage Barat depan Kantor Pusvetma
+76	Halte Wonocolo		Jl. A. Yani Frontage Timur depan Jatim International Expo
+77	Halte Gedung Juang 45	Jl. Mayjen Sungkono depan Gedung Juang 45
